@@ -1,5 +1,6 @@
 # 🔍 DeepSight Analyzer
 
+
 **Digital Forensics & Incident Response Tool**
 
 🔍 Visão Geral
@@ -277,8 +278,8 @@ Esta ferramenta é destinada exclusivamente para:
 
 O uso indevido é de responsabilidade do usuário.
 
-👤 Autor
-Robson Nunes - Cyber Security
+👤 Autor  
+Robson Nunes - Cyber Security  
 LinkedIn: www.linkedin.com/in/robsoncyberdefense
 
 ⭐ Se você acha esta ferramenta útil, dê uma estrela no repositório!
