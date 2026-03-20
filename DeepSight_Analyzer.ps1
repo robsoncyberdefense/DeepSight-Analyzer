@@ -1,4 +1,4 @@
-﻿#Requires -Version 5.1
+﻿# Requires -Version 5.1
 Add-Type -AssemblyName PresentationFramework
 Add-Type -AssemblyName PresentationCore
 Add-Type -AssemblyName WindowsBase
