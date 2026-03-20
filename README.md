@@ -2,8 +2,10 @@
 
 **Digital Forensics & Incident Response Tool**
 
-Ferramenta avançada de análise forense estática para DFIR, malware analysis e reverse engineering, 
-desenvolvida em PowerShell com interface gráfica WPF profissional.
+🔍 Visão Geral
+O DeepSight Analyzer é uma ferramenta de análise forense digital e resposta a incidentes (DFIR - Digital Forensics and Incident Response)
+desenvolvida em PowerShell com interface gráfica WPF. A ferramenta permite realizar análise estática avançada de arquivos, 
+detecção de malware, extração de indicadores de comprometimento (IOCs) e análise de técnicas de evasão.
 
 ## 🌟 Funcionalidades Principais
 
@@ -277,5 +279,6 @@ O uso indevido é de responsabilidade do usuário.
 
 👤 Autor
 Robson Nunes - Cyber Security
-LinkedIn: linkedin.com/in/robsoncyberdefense
+LinkedIn: www.linkedin.com/in/robsoncyberdefense
+
 ⭐ Se você acha esta ferramenta útil, dê uma estrela no repositório!
